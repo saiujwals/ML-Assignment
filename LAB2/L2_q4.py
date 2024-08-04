@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # Use forward slashes in the file path
-s = "C:/Users/thridev/Downloads/Lab Session Data.xlsx"
+s = "C:/Users/ujwal/Downloads/Lab Session Data.xlsx"
 
 # Load the correct sheet name
 data = pd.read_excel(s, sheet_name='IRCTC Stock Price')
